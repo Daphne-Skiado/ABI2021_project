@@ -3,8 +3,8 @@
 
 ##### Dependencies
 ------
-*GNU make
-*seaborn
-*gawk
-*python
-*matplotlib
+* GNU make
+* seaborn
+* gawk
+* python
+* matplotlib

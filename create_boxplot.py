@@ -3,8 +3,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-sns.set_theme(style="whitegrid")
-
 less_file = open(sys.argv[2],'r')
 less100proteins = [line[:-1] for line in less_file.readlines()]
 less_file.close() 
